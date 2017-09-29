@@ -10,4 +10,10 @@ adding line
 and more 
 more
  more
+<<<<<<< HEAD
 making other changes to test 
+=======
+
+making changes
+to test branches
+>>>>>>> develop
