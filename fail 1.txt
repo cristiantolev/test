@@ -1,8 +1,3 @@
 Chris Tolev
 
-<<<<<<< HEAD
-fail 2,3
-
-========
-
->>>>>>>
+resolving the problem
